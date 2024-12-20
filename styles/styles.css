@@ -106,7 +106,7 @@ body {
   -moz-animation-fill-mode: both;
   animation-fill-mode: both; }
 .head.landing-page {
-  background: black;
+  background-color: black;
 }
 .site {
   display: block;
