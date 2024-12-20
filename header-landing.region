@@ -35,7 +35,7 @@
 		  <a href="/" data-content-field="site-title">Novo</a>
 		</h1>
 		
-		<div class="open-nav icon-arrow-right"></div>
+		<div class="open-nav icon-arrow-right test"></div>
 		
 		<!--<squarespace:navigation navigationId="primary-nav" template="navigation" />-->
 
